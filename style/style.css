@@ -1,0 +1,54 @@
+body {
+    background-color: #191716;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #CCD6F6;
+    min-height: 100vh;
+    font-family: "Poppins", Arial, Helvetica, sans-serif;
+}
+
+
+.preview {
+    text-align: center;
+}
+
+.preview h1{
+    font-size: 4rem;
+}
+
+.preview a {
+    color: #5BBF9B;
+    text-decoration: none;
+}
+
+.preview a:hover {
+    text-decoration: underline;
+}
+
+.preview-title {
+    color: #EAACC6;
+    font-weight: 600;
+}
+
+.preview-link {
+    color: #8892B0;
+    margin-top: 2rem;
+}
+
+.preview-icons {
+    display: flex;
+    margin-top: 2rem;
+    justify-content: center;
+}
+
+.preview-icon {
+    margin: 0 1.2rem;
+    fill: #CCD6F6;
+    transition: all .3s ease;
+}
+
+.preview-icon:hover {
+    fill: #4d9e80;
+    transition: all .3s ease;
+}
