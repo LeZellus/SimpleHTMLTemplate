@@ -8,15 +8,6 @@ This project is a basic template for a website. It employs HTML, CSS, and JavaSc
 
 Here's the layout of the project:
 
-SimpleHTMLTemplate/
----- css/
--------- reset.css   (Contains [Meyerweb CSS Reset](https://meyerweb.com/eric/tools/css/reset/))
--------- style.css   (Contains your custom styles)
----- js/
--------- app.js
----- images/
-index.html
-
 - `index.html`: The main page of the site.
 - `css/`: Folder containing the CSS files.
     - `reset.css`: Resets default browser styles for consistency across browsers.
