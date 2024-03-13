@@ -4,6 +4,7 @@
   "description": "This project is a basic template for a website. It employs HTML, CSS, and JavaScript to create a simple yet extendable skeleton for web development.'s architecture is designed to be intuitive and easy to customize.",
   "main": "index.js",
   "scripts": {
+    "sass": "node-sass -w scss/app.scss -o css/ --recursive",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mathéo Zeller",
